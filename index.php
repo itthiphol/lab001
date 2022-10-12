@@ -6,9 +6,9 @@
     <title>PHP - Hello, World!</title>
 </head>
 <body>
-        <h1><?php echo 'Hello, World!'; ?></h1>
-    
+        <h1><?php echo 'Hello, World!'; ?></h1>         
         <h1><?php echo 'Itthiphol-65001234'; ?></h1>
+        <h1><?php echo 'Resume'; ?></h1>
         
 </body>
 </html>
