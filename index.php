@@ -8,7 +8,7 @@
 <body>
         <h1><?php echo 'Hello, World!'; ?></h1>         
         <h1><?php echo 'Itthiphol-65001234'; ?></h1>
-        <h1><?php echo 'Resume888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888'; ?></h1>
+        <h1><?php echo 'Resume8888888'; ?></h1>
         <h1><?php echo 'Resume'; ?></h1>
         <h1><?php echo 'Resume'; ?></h1>
         <h1><?php echo 'Resume'; ?></h1>
